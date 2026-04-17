@@ -1,0 +1,21 @@
+Project_ID,Name,Category,City,Start_Date,Deadline,Status,Progress,Trust_Score,Budget_Cr,Spent_Cr,Issues_Count,Contractor,Projects,On_Time_Rate,Quality_Score,Citizen_Rating,Trust_Score_Contractor,Trend
+IN-001,NH-48 Road Upgrade,Roads,Pune,01-01-2024,30-06-2025,On Track,78,91,120,85,3,Hindustan Infra Pvt Ltd,12,91,4.7,4.5,94,3
+IN-002,MG Road Resurfacing,Roads,Pune,15-02-2024,15-04-2025,Delayed,45,62,45,40,8,BuildBharat Constructions,8,85,4.3,4.1,88,1
+IN-003,Hadapsar Flyover,Bridges,Pune,01-03-2024,31-12-2025,On Track,62,88,200,140,2,Pune Roads Agency,6,78,3.9,3.8,76,0
+IN-004,Baner Water Pipeline,Utilities,Pune,10-01-2024,20-03-2025,Critical,22,41,60,55,12,Maharashtra Civil Works,9,65,3.5,3.2,62,-4
+IN-005,Wakad Drainage System,Drainage,Pune,05-01-2024,10-05-2025,On Track,90,93,30,28,1,Hindustan Infra Pvt Ltd,12,91,4.7,4.5,94,3
+IN-006,Koregaon Park Renovation,Parks,Pune,01-02-2024,01-04-2025,On Track,95,96,20,19,0,BuildBharat Constructions,8,85,4.3,4.1,88,1
+IN-007,Sangam Bridge Inspection,Bridges,Pune,01-03-2024,31-03-2025,Critical,10,38,15,12,9,Metro Infrastructure Co.,4,50,3,2.7,48,-9
+IN-008,FC Road Footpath Upgrade,Roads,Pune,10-02-2024,20-04-2025,Delayed,33,55,25,20,6,Pune Roads Agency,6,78,3.9,3.8,76,0
+IN-009,Solar Street Lights,Utilities,Pune,20-02-2024,15-07-2025,Pending,5,72,35,5,0,Maharashtra Civil Works,9,65,3.5,3.2,62,-4
+IN-010,Pune Station Underpass,Roads,Pune,25-01-2024,30-09-2025,On Track,55,80,150,90,2,Hindustan Infra Pvt Ltd,12,91,4.7,4.5,94,3
+IN-011,Smart Traffic Signals,Smart City,Pune,05-02-2024,01-08-2025,On Track,68,85,70,45,3,BuildBharat Constructions,8,85,4.3,4.1,88,1
+IN-012,River Cleanup Project,Environment,Pune,15-01-2024,10-06-2025,Delayed,40,60,50,30,7,Maharashtra Civil Works,9,65,3.5,3.2,62,-4
+IN-013,Metro Line Extension,Transport,Mumbai,01-01-2024,01-01-2026,On Track,72,89,500,320,4,Metro Infrastructure Co.,4,50,3,2.7,48,-9
+IN-014,Highway Lighting Project,Roads,Nashik,10-03-2024,10-09-2025,On Track,66,87,90,60,2,Pune Roads Agency,6,78,3.9,3.8,76,0
+IN-015,Water Treatment Plant,Utilities,Nagpur,20-02-2024,20-10-2025,Critical,25,50,180,120,10,Maharashtra Civil Works,9,65,3.5,3.2,62,-4
+IN-016,City Park Development,Parks,Nashik,01-03-2024,01-07-2025,On Track,82,92,40,32,1,BuildBharat Constructions,8,85,4.3,4.1,88,1
+IN-017,Drainage Upgrade Phase 2,Drainage,Mumbai,20-01-2024,20-08-2025,Delayed,48,65,110,75,6,Hindustan Infra Pvt Ltd,12,91,4.7,4.5,94,3
+IN-018,Bridge Strengthening Project,Bridges,Nagpur,01-02-2024,01-11-2025,On Track,70,86,130,95,3,Pune Roads Agency,6,78,3.9,3.8,76,0
+IN-019,Smart Waste Management,Environment,Pune,15-02-2024,15-09-2025,On Track,75,90,60,40,2,BuildBharat Constructions,8,85,4.3,4.1,88,1
+IN-020,Bus Rapid Transit Corridor,Transport,Mumbai,10-01-2024,10-12-2025,Critical,30,52,220,150,11,Metro Infrastructure Co.,4,50,3,2.7,48,-9
